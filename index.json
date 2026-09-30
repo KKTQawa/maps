@@ -1,7 +1,7 @@
 {
   "format": "steel-tide-map-index",
   "v": 1,
-  "generated": "2026-09-30T03:16:06.444Z",
+  "generated": "2026-09-30T10:31:55.400Z",
   "maps": [
     {
       "slug": "china",
@@ -24,7 +24,7 @@
       "deposits": 265,
       "decor": 349,
       "updated": "2026-09-22T00:26:44+08:00",
-      "downloads": 31,
+      "downloads": 36,
       "thumb": {
         "w": 56,
         "h": 64,
@@ -1144,7 +1144,7 @@
       "deposits": 16,
       "decor": 0,
       "updated": "2026-09-30T11:14:31+08:00",
-      "downloads": 0,
+      "downloads": 2,
       "thumb": {
         "w": 64,
         "h": 57,
@@ -1262,7 +1262,7 @@
       "deposits": 52,
       "decor": 0,
       "updated": "2026-09-19T16:39:08+08:00",
-      "downloads": 6,
+      "downloads": 8,
       "thumb": {
         "w": 64,
         "h": 54,
@@ -1534,7 +1534,7 @@
       "deposits": 301,
       "decor": 297,
       "updated": "2026-09-22T12:02:58+08:00",
-      "downloads": 24,
+      "downloads": 27,
       "thumb": {
         "w": 63,
         "h": 64,
@@ -3074,7 +3074,7 @@
       "deposits": 32,
       "decor": 0,
       "updated": "2026-09-20T14:19:36+08:00",
-      "downloads": 18,
+      "downloads": 19,
       "thumb": {
         "w": 64,
         "h": 57,
@@ -3246,7 +3246,7 @@
       "deposits": 42,
       "decor": 0,
       "updated": "2026-09-20T16:31:52+08:00",
-      "downloads": 7,
+      "downloads": 8,
       "thumb": {
         "w": 64,
         "h": 57,
@@ -3466,7 +3466,7 @@
       "deposits": 46,
       "decor": 0,
       "updated": "2026-09-20T16:31:52+08:00",
-      "downloads": 11,
+      "downloads": 12,
       "thumb": {
         "w": 64,
         "h": 57,
